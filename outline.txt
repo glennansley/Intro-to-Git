@@ -1,0 +1,23 @@
+
+Introduction to Git | Glenn Ansley | @glennansley | NCSU DELTA <http://delta.ncsu.edu>
+-------------------
+
+===========
+= Outline =
+===========
+* Introduction						Outline of the presentation
+* What is Git?						Version Control, Collaboration
+* How does git control versioning?	Distributed v. Central and DELTA storage v. DAG storage
+* Pros and cons to Git				Advantages and drawbacks compared to other systems
+* How do you get Git?				A couple common methods to install git
+* Basic Concepts: Your Repo			The internal organization of a git repository
+* Basic Concepts: Your Branches		What is a branch? What is its purpose?
+* Basic Concepts: Your Workflow		Some common workflows for individuals and teams
+* How to: Collaboarte with others	Github.com
+* How to: Setup your environment	Common tools for working with Git
+* How to: Create a new repo			Git commands and examples
+* How to: Get repo information		Status, Diffs, Logs
+* How to: Add data to your repo		Adding files, Committing files, Pushing / Pulling files
+* How to: Utilize Git Branches		List, create, modify, merge, rebase, delete
+* Online Resources					Several online resources for using git
+* Questions							Q & A
