@@ -194,3 +194,7 @@ Introduction to Git | Glenn Ansley | @glennansley | NCSU DELTA <http://delta.ncs
 * get rebase master
 * git branch -d branchname
 
+====================
+= Online Resources =
+====================
+* https://gist.github.com/1347681
