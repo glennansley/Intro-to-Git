@@ -154,3 +154,43 @@ Introduction to Git | Glenn Ansley | @glennansley | NCSU DELTA <http://delta.ncs
     * mkdir Intro-to-Git-Read-Example
     * cd Intro-to-Git-Read-Example
     * git clone git://github.com/glennansley/Intro-to-Git.git .
+
+=====================================================
+= How to: Get repo information
+=====================================================
+* Git Status
+    * git status
+    * git remote
+    * git branch
+    * git branch -a
+* Git Diff
+    * git diff
+* Git Logs
+    * git log
+
+=================================
+= How to: Add data to your repo =
+=================================
+* Adding files
+    * vi new-file.txt
+    * git status
+    * git add new-file.txt
+    * git status
+* Committing Files
+    * git commit -m 'This is a new file'
+    * git status
+    * git log
+* Pushing Files
+    * git push origin
+
+================================
+= How to: Utilize Git Branches =
+================================
+* git branch
+* git branch -a
+* git checkout branchname
+* git checkout -b newbranch
+* git merge master
+* get rebase master
+* git branch -d branchname
+
