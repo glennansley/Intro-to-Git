@@ -81,3 +81,34 @@ Introduction to Git | Glenn Ansley | @glennansley | NCSU DELTA <http://delta.ncs
 * Mac OSX   - DMG package. Lion and Snow Leopard didn't ship with git
 * Windows   - Git installers
 * http://book.git-scm.com/2_installing_git.html
+
+=============================
+= BASIC CONCEPTS: Your Repo =
+=============================
+* .git/
+* .gitignore
+* .git/config
+* .git/description * .git/hooks/
+* .git/exclude
+* .git/objects/
+    * blob      - files
+    * tree      - directories
+    * commit    - pointer to root tree
+    * tags      - pointers to specfic commits (most of the time)
+
+===================================
+== BASIC CONCEPTS: Your Branches ==
+===================================
+* Powerful use
+* Use them locally or publically
+* Test features or bug fixes
+
+=================================
+= BASIC CONCEPTS: Your Workflow =
+=================================
+* Example One: Simple
+    * Create a new repo or clone one from elsewhere
+    * Add or modify files
+    * Commit them and possibly push to a remote locaiton
+* Example Two: New feature
+
