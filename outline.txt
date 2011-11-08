@@ -123,3 +123,34 @@ Introduction to Git | Glenn Ansley | @glennansley | NCSU DELTA <http://delta.ncs
     * Pull any updates made by partners
     * Merge your branch
     * Push back to remote repo
+
+=================================
+= HOW TO: Collaboarte with others
+=================================
+* Locally via ssh
+* Online services
+    * Unfuddle.com
+    * Assembla.com
+    * Github.com
+
+============================================
+= HOW TO: SETTING UP YOUR ENVIRONMENT =
+============================================
+* vi ~/.gitconfig
+* cat ~/.ssh/id_rsa.pub
+
+=============================
+= HOW TO: Create a new repo =
+=============================
+* Create an empty repo:
+    * git init
+* Create from an existing repo (I'm doing it from github)
+    * mkdir Intro-to-Git-Example
+    * cd Intro-to-Git-Example
+    * git init
+    * git remote add origin git@github.com:glennansley/Intro-to-Git.git
+    * git pull origin master
+* Create from an existing repo w/o write access
+    * mkdir Intro-to-Git-Read-Example
+    * cd Intro-to-Git-Read-Example
+    * git clone git://github.com/glennansley/Intro-to-Git.git .
