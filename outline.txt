@@ -21,3 +21,21 @@ Introduction to Git | Glenn Ansley | @glennansley | NCSU DELTA <http://delta.ncs
 * How to: Utilize Git Branches		List, create, modify, merge, rebase, delete
 * Online Resources					Several online resources for using git
 * Questions							Q & A
+
+=================
+= Introduction =
+=================
+* Glenn Ansley, DELTA
+* Experience with Git
+* Overview of Outline
+
+=================
+= What is Git? =
+=================
+* How many people have used Git in the past?
+* How many people have used a different VCS?
+* Can someone tell us what Git is in a couple of sentances?
+    * It's a tool used to track file revisions - versioning and history
+    * Especially powerful in instance involving multiple contributors to the files
+* Git's creator, origin, and popularity
+
