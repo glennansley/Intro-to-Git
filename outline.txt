@@ -39,3 +39,20 @@ Introduction to Git | Glenn Ansley | @glennansley | NCSU DELTA <http://delta.ncs
     * Especially powerful in instance involving multiple contributors to the files
 * Git's creator, origin, and popularity
 
+=====================================
+= How does git control versioning?  =
+=====================================
+* There are two types of versioning
+    * DELTA         - Each new version is a diff of the previous version
+    * DAG storage   - Directed Acyclic Graph - stores a new version of the file with every commit
+* There are different ways to manage these revisions
+    * Local         - Stored locally on your machine
+    * Central       - Think client / server
+    * Distributed   - Peer to Peer rather than client / server
+* Examples of different combinations
+    * DELTA/Local   - RCS
+    * DELTA/Central - CVS, SVN
+    * DELTA/Distrib - Mercurial
+    * DAG/Local     - cp -r
+    * DAG/Central   - Git
+
