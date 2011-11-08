@@ -111,4 +111,15 @@ Introduction to Git | Glenn Ansley | @glennansley | NCSU DELTA <http://delta.ncs
     * Add or modify files
     * Commit them and possibly push to a remote locaiton
 * Example Two: New feature
-
+* Create a new repo or clone one from elsewhere
+    * Create a new branch for your new feature
+    * Make changes / test, commit
+    * Merge back into your master branch and possibly push
+* Example Three: Collaborative Work
+    * Clone someone's repo or create your own and push it to a remote location
+    * Make changes on a branch
+    * Test and commit
+    * Checkout master branch
+    * Pull any updates made by partners
+    * Merge your branch
+    * Push back to remote repo
