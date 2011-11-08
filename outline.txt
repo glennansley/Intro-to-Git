@@ -56,3 +56,20 @@ Introduction to Git | Glenn Ansley | @glennansley | NCSU DELTA <http://delta.ncs
     * DAG/Local     - cp -r
     * DAG/Central   - Git
 
+========================
+= Pros and Cons to Git =
+========================
+* Pros
+    * Fast
+    * Local Commits
+    * Branching (or rather remerging)
+    * One .git rather than multiple .SVN folders
+    * Multiple repositories
+    * Easy to start new repositories
+    * Flexible workflow
+* Cons
+    * No built-in access control
+    * Learning curve is a bit steeper
+    * Weaker windows / GUI tools and documentation
+    * Large command base
+    * Must checkout complete repo
